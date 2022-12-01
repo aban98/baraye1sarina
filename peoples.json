@@ -127,4 +127,23 @@
     "voiceUrl" : ""
 
   }
+   ,
+  {
+    "name": "خدانور لجه\u200Cای",
+    "nationalId": "1234567890",
+    "gender": "مرد",
+    "birthday": "1374/07/10",
+    "departureAge": "27",
+    "departureDay": "10",
+    "departureMonth": "7",
+    "departureYear": "1401",
+    "birthplaceProvince": "سیستان و بلوچستان",
+    "birthplaceCity": "زاهدان",
+    "departurePlace": "زاهدان",
+    "description": "خدانور در روز شنبه ۹ مهر از ناحیهٔ کلیه مورد اصابت گلوله قرار گرفت و به بیمارستان تأمین اجتماعی زاهدان منتقل شد، ولی در آنجا از درمان او امتناع شد و سرانجام در روز یکشنبه ۱۰ مهر جان خود را از دست داد.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/fa/8/8e/Khodanorlojei.jpg",
+    "videoUrl": "",
+    "voiceUrl" : ""
+
+  }
 ]
