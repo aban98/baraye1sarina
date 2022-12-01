@@ -127,5 +127,42 @@
     "voiceUrl" : ""
 
   }
+   ,
+  {
+    "name": "خدانور لجه\u200Cای",
+    "nationalId": "1234567890",
+    "gender": "مرد",
+    "birthday": "1374/07/10",
+    "departureAge": "27",
+    "departureDay": "10",
+    "departureMonth": "7",
+    "departureYear": "1401",
+    "birthplaceProvince": "سیستان و بلوچستان",
+    "birthplaceCity": "زاهدان",
+    "departurePlace": "زاهدان",
+    "description": "خدانور در روز شنبه ۹ مهر از ناحیهٔ کلیه مورد اصابت گلوله قرار گرفت و به بیمارستان تأمین اجتماعی زاهدان منتقل شد، ولی در آنجا از درمان او امتناع شد و سرانجام در روز یکشنبه ۱۰ مهر جان خود را از دست داد.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/fa/8/8e/Khodanorlojei.jpg",
+    "videoUrl": "",
+    "voiceUrl" : ""
+
+  },
+  {
+    "name": "حنانه کیا کجوری",
+    "nationalId": "1234567890",
+    "gender": "زن",
+    "birthday": "1378/0/0",
+    "departureAge": "22",
+    "departureDay": "30",
+    "departureMonth": "6",
+    "departureYear": "1401",
+    "birthplaceProvince": "مازندران",
+    "birthplaceCity": "نوشهر",
+    "departurePlace": "نوشهر",
+    "description": "او چهارشنبه ۳۰ شهریور در خیابان ستارخان، در نزدیکی میدان آزادی، نوشهر مورد اصابت گلوله نیروهای نظامی جمهوری اسلامی، به پهلویش قرار گرفت و کشته شد. روز جمعه ۱ مهر ۱۴۰۱ پیکر او در آرامستان الجواد در بین نوشهر و چالوس به خاک سپرده شد.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/fa/thumb/1/11/Hananeh_kia.jpg/330px-Hananeh_kia.jpg",
+    "videoUrl": "",
+    "voiceUrl" : ""
+
+  }
  
 ]
