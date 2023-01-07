@@ -1,1 +1,6 @@
 2020/5/6
+
+dont delete these lines
+--- format : year/month/day -- $$$$/$$/$$
+--- app read just first line
+--- app remove free spaces in the first line 
